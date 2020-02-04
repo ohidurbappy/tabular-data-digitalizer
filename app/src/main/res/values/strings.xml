@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Table Extractor</string>
+    <string name="app_foldername">table_extractor</string>
+    <string name="pictures_folder">pictures</string>
+    <string name="excel_folder">excel</string>
+    <string name="output_folder">output</string>
+</resources>

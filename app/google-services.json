@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1053829257886",
+    "firebase_url": "https://text-scanner-2019.firebaseio.com",
+    "project_id": "text-scanner-2019",
+    "storage_bucket": "text-scanner-2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053829257886:android:f893a279c2a0e690bbf98f",
+        "android_client_info": {
+          "package_name": "com.orb.textscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053829257886-gaqnm20r7quc9mgjan2dodpgcevqde0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orb.textscanner",
+            "certificate_hash": "c1c128b24998d7afeb7908afb3678559229d43bc"
+          }
+        },
+        {
+          "client_id": "1053829257886-da3rbliff69mohrq14r9r1d38t1er582.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2cIuMkAPnZBCi8dgOuqJNy53YFILGSm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053829257886-da3rbliff69mohrq14r9r1d38t1er582.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
